@@ -1,0 +1,11 @@
+Package: tleavesMC
+Type: Package
+Title: Schymanski Equation
+Version: 0.1.0
+Author: MC 
+Maintainer: MC <yourself@somewhere.net>
+Description: tealeaves
+License: Je ne se pas
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
